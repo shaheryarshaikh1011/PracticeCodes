@@ -1,5 +1,4 @@
-// Online Javascript Editor for free
-// Write, Edit and Run your Javascript code using JS Online Compiler
+// print first Half of the string reversed
 let str="Shaheryar";
 function FirstHalfReverse(str)
 {
